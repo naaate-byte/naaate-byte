@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-<!--
-**naaate-byte/naaate-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://img.shields.io/github/followers/naaate-byte?style=social https://img.shields.io/github/commit-activity/w/naaate-byte/naaate-byte.github.io https://img.shields.io/github/repo-size/naaate-byte/naaate-byte.github.io
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
